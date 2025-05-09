@@ -1,6 +1,6 @@
 {
   "name": "aryan-meta-apis",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A simple npm package for accessing the RestAPIs.",
   "main": "index.js",
   "scripts": {
