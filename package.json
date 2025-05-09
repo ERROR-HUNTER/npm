@@ -1,0 +1,38 @@
+{
+  "name": "aryan-meta-apis",
+  "version": "0.0.1",
+  "description": "A simple npm package for accessing the RestAPIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "start": "node index.js",
+    "build": "echo \"Building the project...\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ERROR-HUNTER/meta-apis"
+  },
+  "keywords": [
+    "meta"
+  ],
+  "author": "ArYAN",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ERROR-HUNTER/meta-apis/issues"
+  },
+  "homepage": "https://meta-ai-api.vercel.app",
+  "private": false,
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ERROR-HUNTER/meta-apis.git"
+  }
+}
