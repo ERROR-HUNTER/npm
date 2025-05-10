@@ -11,7 +11,7 @@
 You can install the package using npm:
 
 ```bash
-npm i aryan-meta-apis
+npm i aryan-xyz-meta
 ```
 
 *All Informations are not available my Facebook account for more informations, thank you for using our services 🌷🥰*
