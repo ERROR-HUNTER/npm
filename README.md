@@ -22,7 +22,7 @@ npm i aryan-xyz-meta
 # meta
 
 ```javascript
-      const { meta } = require('aryan-meta-apis');
+      const { meta } = require('aryan-xyz-meta');
 
       async function main() {
         const prompt = "Who are you?";
